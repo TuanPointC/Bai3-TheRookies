@@ -1,0 +1,9 @@
+.selectPage {
+    margin: 20px;
+}
+.selectPage select{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+}

@@ -1,0 +1,12 @@
+.counter{
+margin: 20px 0;
+}
+
+.button{
+    margin: 0 20px;
+    padding: 5px 20px;
+    background-color: blue;
+    cursor: pointer;
+    outline: none;
+    color: white;
+}
